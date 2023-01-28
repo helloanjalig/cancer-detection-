@@ -2,7 +2,7 @@ Cancer Detection Project
 The purpose of this project is to develop a deep learning model that can accurately detect the presence of cancer in medical images. Early detection of cancer can greatly increase the chances of successful treatment, and this project aims to aid in that effort by making the process more efficient and accurate.
 
 Installation
-Start by cloning the repository to your local machine: git clone https://github.com/username/cancer-detection.git
+Start by cloning the repository to your local machine: git clone  (https://github.com/helloanjalig/cancer-detection-.git)
 Navigate into the project directory:
 bash
 Copy code
